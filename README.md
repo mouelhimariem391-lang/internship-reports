@@ -12,7 +12,7 @@ This repository contains my internship reports documenting my professional exper
 
 ## Reports
 
-All internship reports (PDF files) are stored in the `reports/` folder.
+All internship reports (PDF files) are stored in the `internship-reports/` folder.
 
 ---
 
